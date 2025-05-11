@@ -10,3 +10,8 @@ This is my personal portfolio website to showcase my projects, skills, and conta
 - Project showcase
 - Contact information
 - Modern UI with clean design
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
