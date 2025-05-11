@@ -23,3 +23,32 @@ personal-portfolio/
 │ └── js/
 ├── index.html
 └── README.md
+```
+bash
+## 🚀 Getting Started
+
+To view the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rakesh000070/personal-portfolio.git
+```
+2.Open the folder:
+```
+bash
+cd personal-portfolio
+```
+3.Open index.html in any browser to preview the site.
+
+## 🚀 Deployment (GitHub Pages)
+Push your code to the main branch.
+
+Go to Settings → Pages in the repo.
+
+Select source as main branch and / (root) folder.
+
+Click Save. Your portfolio will be deployed at:
+```
+bash
+https://rakesh000070.github.io/personal-portfolio/
+```
