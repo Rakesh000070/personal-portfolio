@@ -54,3 +54,10 @@ https://rakesh000070.github.io/personal-portfolio/
 ```
 ## 🙋‍♂️ About Me
 I'm Rakesh, an aspiring web developer passionate about building responsive and user-friendly web applications. This portfolio highlights my journey, skills, and the projects I’ve worked on.
+
+## 📬 Contact
+GitHub: @Rakesh000070
+
+Email: [your-email@example.com]
+
+LinkedIn: [Your LinkedIn Profile]
