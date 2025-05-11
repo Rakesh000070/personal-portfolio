@@ -15,3 +15,11 @@ This is my personal portfolio website to showcase my projects, skills, and conta
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6)**
+## 📁 Folder Structure
+personal-portfolio/
+├── assets/
+│ ├── css/
+│ ├── images/
+│ └── js/
+├── index.html
+└── README.md
