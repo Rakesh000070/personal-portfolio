@@ -16,6 +16,7 @@ This is my personal portfolio website to showcase my projects, skills, and conta
 - **CSS3**
 - **JavaScript (ES6)**
 ## 📁 Folder Structure
+```
 personal-portfolio/
 ├── assets/
 │ ├── css/
@@ -23,6 +24,7 @@ personal-portfolio/
 │ └── js/
 ├── index.html
 └── README.md
+```
 ```
 bash
 ## 🚀 Getting Started
