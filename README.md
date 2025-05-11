@@ -58,6 +58,9 @@ I'm Rakesh, an aspiring web developer passionate about building responsive and u
 ## 📬 Contact
 GitHub: @Rakesh000070
 
-Email: [your-email@example.com]
+Email: [rakeshnayak2332341k@gmail.com]
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: []
+
+## 📝 License
+This project is open source and available under the MIT License.
