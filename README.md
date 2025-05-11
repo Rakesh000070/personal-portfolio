@@ -60,7 +60,7 @@ GitHub: @Rakesh000070
 
 Email: [rakeshnayak2332341k@gmail.com]
 
-LinkedIn: []
+LinkedIn: [in/rakesh-nayak07]
 
 ## 📝 License
 This project is open source and available under the MIT License.
